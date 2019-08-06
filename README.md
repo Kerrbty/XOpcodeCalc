@@ -3,6 +3,6 @@
 
 Opcode calculator.
 
-![alt text](https://github.com/horsicq/XOpcodeCalc/blob/master/screenshot_gui.jpg "Screenshot gui")
+![alt text](https://github.com/jha334201553/XOpcodeCalc/raw/master/screenshot_gui.jpg "Screenshot gui")
 
 More info: https://n10info.blogspot.com/2019/07/xopcodecalc.html
